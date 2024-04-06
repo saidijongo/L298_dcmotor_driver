@@ -1,3 +1,4 @@
+//Test code for for different aspects of the custom arduino board with inbuilt dc motor H-bridge driver
 #define IN1 2 //+
 #define IN2 6 //-
 #define IN3 7 //+
