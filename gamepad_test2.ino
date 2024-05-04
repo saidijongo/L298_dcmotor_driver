@@ -91,7 +91,7 @@ void loop() {
 delay(50);
   if (ps2x.Button(PSB_L1))
   {
-    LY = ps2x.Analog(PSS_LY);                     //receive values from p22 joystick
+    LY = ps2x.Analog(PSS_LY);    //receive values from p22 joystick
     LX = ps2x.Analog(PSS_LX);
   }
   if (ps2x.Button(PSB_R1))
@@ -100,7 +100,7 @@ delay(50);
     RX = ps2x.Analog(PSS_RX);
   }
 
-  if (LY > 200 || RY > 200)                       //check if the joystick pushed up side
+  if (LY > 200 || RY > 200)  //check if the joystick pushed up side
   {
     REV();
   }
@@ -121,8 +121,8 @@ delay(50);
     waithere();
   }
 
-LY = LX = 128;         //return to default vlaues
-RY = RX = 128;         //return to default values
+LY = LX = 128;   //return to default vlaues
+RY = RX = 128;  //return to default values
 }
 
 void forward()
@@ -158,7 +158,6 @@ void left()
   digitalWrite(leftm2, LOW);
   digitalWrite(rightm1, HIGH);
   digitalWrite(rightm2, LOW);
-
 }
 void right()
 {
