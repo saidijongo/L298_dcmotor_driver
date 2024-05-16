@@ -12,4 +12,6 @@ https://blog.naver.com/cksung71/221262064390
 
 <img width="488" alt="image" src="https://github.com/saidijongo/L298_dcmotor_driver/assets/31678025/180db323-44db-4339-bf60-154ae5600989">
 
+<img width="514" alt="image" src="https://github.com/saidijongo/L298_dcmotor_driver/assets/31678025/6f7595ed-60b4-4112-91fe-379775fbe40e">
+
 
