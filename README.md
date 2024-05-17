@@ -18,5 +18,7 @@ bldc esc driver
 https://simple-circuit.com/arduino-sensorless-bldc-motor-controller-esc/
 lm293 comparator
 https://electronics.stackexchange.com/questions/92317/what-does-this-lm393n-circuit-do
+renesas communit, bldc control
+https://community.renesas.com/mcu-mpu/ra/f/forum/32125/ra2e1-bldc-motor-control-with-hall-sensor
 
 
