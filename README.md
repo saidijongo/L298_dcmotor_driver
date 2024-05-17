@@ -16,5 +16,7 @@ https://blog.naver.com/cksung71/221262064390
 
 bldc esc driver
 https://simple-circuit.com/arduino-sensorless-bldc-motor-controller-esc/
+lm293 comparator
+https://electronics.stackexchange.com/questions/92317/what-does-this-lm393n-circuit-do
 
 
