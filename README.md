@@ -14,4 +14,7 @@ https://blog.naver.com/cksung71/221262064390
 
 <img width="514" alt="image" src="https://github.com/saidijongo/L298_dcmotor_driver/assets/31678025/6f7595ed-60b4-4112-91fe-379775fbe40e">
 
+bldc esc driver
+https://simple-circuit.com/arduino-sensorless-bldc-motor-controller-esc/
+
 
