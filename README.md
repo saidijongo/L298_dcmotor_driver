@@ -25,4 +25,6 @@ https://community.renesas.com/mcu-mpu/ra/f/forum/32125/ra2e1-bldc-motor-control-
 https://docs.arduino.cc/retired/hacking/software/PortManipulation/
 https://docs.arduino.cc/retired/hacking/hardware/Atmega168Hardware/
 
+https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?autoSkip=true&resume=false
+
 
