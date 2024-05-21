@@ -21,6 +21,8 @@ https://electronics.stackexchange.com/questions/92317/what-does-this-lm393n-circ
 renesas communit, bldc control
 https://community.renesas.com/mcu-mpu/ra/f/forum/32125/ra2e1-bldc-motor-control-with-hall-sensor
 
+#Arduino uno
 https://docs.arduino.cc/retired/hacking/software/PortManipulation/
+https://docs.arduino.cc/retired/hacking/hardware/Atmega168Hardware/
 
 
