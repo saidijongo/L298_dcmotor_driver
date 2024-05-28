@@ -32,3 +32,6 @@ https://simple-circuit.com/
 
 stm32F0 on arduino
 https://www.sgbotic.com/index.php?dispatch=pages.view&page_id=48#:~:text=The%20STM32%20Blue%20Pill%20is,through%20the%20Type%2DC%20connector.
+
+RENESAS FPS on arduino
+https://forum.arduino.cc/t/the-renesas-users-manual-and-fsp-the-deep-magic-for-r4/1179100/2
