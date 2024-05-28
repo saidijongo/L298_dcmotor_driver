@@ -27,4 +27,7 @@ https://docs.arduino.cc/retired/hacking/hardware/Atmega168Hardware/
 
 https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?autoSkip=true&resume=false
 
+lcd arduino
+https://simple-circuit.com/
+
 
