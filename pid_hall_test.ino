@@ -67,3 +67,5 @@ void Trace(){
                         + "  dt: "        + String(dt,3)
                         );
 }
+//credit
+//https://github.com/oracid/PID-for-Hoverboard-motor-with-ZS-X11H-controller
