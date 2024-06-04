@@ -29,6 +29,7 @@ https://www.linkedin.com/learning/c-programming-for-embedded-applications-145372
 
 lcd arduino
 https://simple-circuit.com/
+lcd on stm32
 https://www.micropeta.com/video59
 
 stm32F0 on arduino
