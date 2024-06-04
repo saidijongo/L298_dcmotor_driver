@@ -1,0 +1,11 @@
+1 VDD - Power supply for logic +5.0V
+2 VSS - Ground (GND) for logic
+3 Vo - Power supply for LCD drive
+4 RS -Register selection  (H: Data register, L: Instruction register)
+5 E1 -Enable Signal for IC1(Left half panel)
+6 E2  -Enable Signal for IC2(Right half panel)
+7 R/W Read/Write selection (H:Read, L:Write)
+8~15 DB0~DB7 -Data bus lines
+16 /RST Resent signal
+17 LEDA Power supply for Backlight +
+18 LEDK Power supply for Backlight -
