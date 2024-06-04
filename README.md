@@ -29,6 +29,7 @@ https://www.linkedin.com/learning/c-programming-for-embedded-applications-145372
 
 lcd arduino
 https://simple-circuit.com/
+https://www.micropeta.com/video59
 
 stm32F0 on arduino
 https://www.sgbotic.com/index.php?dispatch=pages.view&page_id=48#:~:text=The%20STM32%20Blue%20Pill%20is,through%20the%20Type%2DC%20connector.
