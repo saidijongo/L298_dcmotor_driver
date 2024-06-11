@@ -39,3 +39,6 @@ RENESAS FPS on arduino
 https://forum.arduino.cc/t/the-renesas-users-manual-and-fsp-the-deep-magic-for-r4/1179100/2
 drv8307 TI driver
 https://www.ti.com/lit/ds/symlink/drv8307.pdf?ts=1716958091043&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+STM32 & I2C LCD
+https://controllerstech.blogspot.com/2017/07/i2c-in-stm32.html
