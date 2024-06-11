@@ -42,3 +42,5 @@ https://www.ti.com/lit/ds/symlink/drv8307.pdf?ts=1716958091043&ref_url=https%253
 
 STM32 & I2C LCD
 https://controllerstech.blogspot.com/2017/07/i2c-in-stm32.html
+<img width="345" alt="image" src="https://github.com/saidijongo/L298_dcmotor_driver/assets/31678025/c0c568db-cb27-40f5-b573-864d1616e126">
+
