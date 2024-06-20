@@ -52,3 +52,4 @@ https://controllerstech.blogspot.com/2017/07/i2c-in-stm32.html
 digistal cam stm32
 https://github.com/christal87/DigitalCamera_STM32
 
+https://device.report/manual/9917180 
