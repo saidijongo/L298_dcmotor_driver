@@ -103,3 +103,4 @@ void ProcessCommand(String command, int data)
 
 //https://mad-ee.com/controlling-a-hoverboard-motor-with-a-simple-arduino/
 //https://github.com/oracid/PID-for-Hoverboard-motor-with-ZS-X11H-controller
+//https://github.com/joshnewans/ros_arduino_bridge
