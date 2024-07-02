@@ -56,3 +56,5 @@ https://device.report/manual/9917180
 
 zs-x11h v1 bldc driver
 https://mad-ee.com/easy-inexpensive-hoverboard-motor-controller/
+https://m.blog.naver.com/smserial/221143273095
+https://blog.naver.com/smserial/221143252215
