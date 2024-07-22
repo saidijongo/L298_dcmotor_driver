@@ -35,10 +35,10 @@ https://simple-circuit.com/
 lcd on stm32
 https://www.micropeta.com/video59
 
-stm32F0 on arduino
+stm32F0xx on arduino
 https://www.sgbotic.com/index.php?dispatch=pages.view&page_id=48#:~:text=The%20STM32%20Blue%20Pill%20is,through%20the%20Type%2DC%20connector.
 
-RENESAS FPS on arduino
+RENESAS RA6 FPS on arduino
 https://forum.arduino.cc/t/the-renesas-users-manual-and-fsp-the-deep-magic-for-r4/1179100/2
 drv8307 TI driver
 https://www.ti.com/lit/ds/symlink/drv8307.pdf?ts=1716958091043&ref_url=https%253A%252F%252Fwww.google.com%252F
