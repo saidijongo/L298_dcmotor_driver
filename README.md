@@ -27,6 +27,8 @@ https://community.renesas.com/mcu-mpu/ra/f/forum/32125/ra2e1-bldc-motor-control-
 #Arduino uno
 https://docs.arduino.cc/retired/hacking/software/PortManipulation/
 https://docs.arduino.cc/retired/hacking/hardware/Atmega168Hardware/
+#Arduino uno morpho
+https://docs.arduino.cc/retired/boards/arduino-uno-rev3-with-long-pins/
 
 https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?autoSkip=true&resume=false
 
