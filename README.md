@@ -60,3 +60,6 @@ zs-x11h v1 bldc driver
 https://mad-ee.com/easy-inexpensive-hoverboard-motor-controller/
 https://m.blog.naver.com/smserial/221143273095
 https://blog.naver.com/smserial/221143252215
+
+Pedelec control
+https://github.com/jenkie/Arduino-Pedelec-Controller
