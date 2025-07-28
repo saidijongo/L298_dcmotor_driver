@@ -63,3 +63,6 @@ https://blog.naver.com/smserial/221143252215
 
 Pedelec control
 https://github.com/jenkie/Arduino-Pedelec-Controller
+
+schematic
+https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/
